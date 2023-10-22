@@ -5,7 +5,7 @@
 
 Desafio em que desenvolvi Lading Page Simples e utilizei Angular + SASS com TypeScript 
 
-Ferramentas Utilizadas
+Ferramentas Utilizadas:
 • JAVASCRIPT
 • HTML5
 • CSS 
